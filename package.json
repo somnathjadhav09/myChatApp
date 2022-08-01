@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "This is mern stack chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Reactjs",
+    "Nodejs",
+    "Expressjs",
+    "Mongodb",
+    "Atlas"
+  ],
+  "author": "Somnath Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.5.0"
+  }
+}
